@@ -19,7 +19,7 @@ export function App() {
 
     return (
         <div>
-            <AppTitle title="This is APP component"/>
+            <AppTitle title="This is APP componentttt"/>
             <SubTitle title={"Controlled Accordion + useState"}/>
             <Accordion
                 item={[
