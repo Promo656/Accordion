@@ -10,6 +10,9 @@ type Props2 = {
     collapsed:boolean
 }
 
+
+
+
 export function UnControlledAccordion(props: Props1) {
     let [collapsed, setCollapsed]=useState(true)
 
