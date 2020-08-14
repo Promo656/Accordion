@@ -25,7 +25,7 @@ export function App() {
                 item={[
                     {title: "Egor", value: 1},
                     {title: "Denis", value: 2},
-                    {title: "Dima", value: 3}
+                    {title: "Vova", value: 3}
                 ]}
                 onClick={setAccordionCollapsed}
                 value="Menu"
